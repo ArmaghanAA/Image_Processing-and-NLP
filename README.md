@@ -1,4 +1,4 @@
-Food Image and News Classification
+# Food Image and News Classification
 
 This project consists of two separate parts. The first part focuses on image classification and the second part focuses on text classification. 
 
