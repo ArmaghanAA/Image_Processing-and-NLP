@@ -73,10 +73,10 @@ Text Classification
 ## 🤝 Feedback
 We welcome any feedback, bug reports, and suggestions. Please let us know if you encounter any issues or have ideas for improvement.
 
-## Meet Our Team 
-[Zahra](https://github.com/ZahraTavakkol)
-[Armaghan](https://github.com/ArmaghanAA)
-[Mahdi](https://github.com/mahdibch)
-[Reyhan](https://github.com/reyhane79)
+## ⚽️ Meet Our Team 
+  - [Zahra](https://github.com/ZahraTavakkol)
+  - [Armaghan](https://github.com/ArmaghanAA)
+  - [Mahdi](https://github.com/mahdibch)
+  - [Reyhane](https://github.com/reyhane79)
 
-##### Special thanks to our mentor [Sina Asghari](https://github.com/sinaaasghari) for leading us through this project.
+#### And special thanks to our mentor [Sina Asghari](https://github.com/sinaaasghari) for leading us through this project.
