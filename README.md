@@ -3,9 +3,9 @@
 ## 📌 Overview
 This project aims to classify food images and news articles into relevant categories. It consists of two main parts: image classification and text classification.
 
-In the image classification section, various deep learning models including InceptionV3, ResNet, DenseNet, MobileNet, and Xception were implemented using Keras. Techniques such as data augmentation and handling missing labels were employed to enhance model performance.
+In the image classification section, various deep learning models including InceptionV3, ResNet, DenseNet, MobileNet, and Xception were implemented using Keras. Techniques such as data augmentation and handling missing labels were employed to enhance model performance. Data was downloaded from this [link](https://drive.google.com/file/d/15CHt2ueS4c7emHpmzFHC3c0TGd51Mnvz/view?usp=drive_link).
 
-For text classification, two datasets (AG News and BBC News) were utilized to tokenize and train the NLP model.
+For text classification, two datasets ([AG News](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) and [BBC News](https://www.kaggle.com/competitions/learn-ai-bbc/data)) were utilized to tokenize and train the NLP model.
 
 ## 🎯 Objectives
 - Implement deep learning models for image classification to classify food images.
@@ -22,7 +22,18 @@ In the image classification section, various models including InceptionV3, ResNe
 Image Classification
 │   main.py
 │   Q1_Image_Classification.ipynb
-│
+|
+└───Models
+│   DenseNet201_augmented_imagenet.h5
+│   DenseNet201_augmented_imagenet.json
+│   DenseNet201_imagenet.h5
+│   DenseNet201_imagenet.json
+│   history_DenseNet201_augmented_imagenet.npy
+│   history_DenseNet201_imagenet.npy
+│   history_Xception_augmented_imagenet.npy
+│   Xception_augmented_imagenet.h5
+│   Xception_augmented_imagenet.json
+|
 └───Pytorch ResNet
         test.ipynb
         train.ipynb
@@ -36,7 +47,6 @@ For text classification, two datasets (AG News and BBC News) were utilized to to
 ```
 Text Classification
 │   main.py
-│   main.ipynb
 │   Project2_P2_NLP.ipynb
 │
 ├───Data
@@ -64,9 +74,9 @@ Text Classification
 We welcome any feedback, bug reports, and suggestions. Please let us know if you encounter any issues or have ideas for improvement.
 
 ## Meet Our Team 
-[<img src="https://avatars.githubusercontent.com/u/79264959?v=4" width="35">](https://github.com/ZahraTavakkol)
-[<img src="https://avatars.githubusercontent.com/u/121010832?v=4" width="35">](https://github.com/ArmaghanAA)
-[<img src="https://avatars.githubusercontent.com/u/121010832?v=4" width="35">](https://github.com/mahdibch)
-[<img src="https://avatars.githubusercontent.com/u/81512968?v=4" width="35">](https://github.com/reyhane79)
+[Zahra](https://github.com/ZahraTavakkol)
+[Armaghan](https://github.com/ArmaghanAA)
+[Mahdi](https://github.com/mahdibch)
+[Reyhan](https://github.com/reyhane79)
 
 ##### Special thanks to our mentor [Sina Asghari](https://github.com/sinaaasghari) for leading us through this project.
